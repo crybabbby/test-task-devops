@@ -9,7 +9,7 @@ Client -> nginx(:80) -> PythonBackend(:8080)
 
 #Клонируем репо
 
-git clone <repository-url>
+git clone (repo_url)
 
 cd test-task-devops
 
