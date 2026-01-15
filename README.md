@@ -23,6 +23,6 @@ docker-compose up -d --build
 
 Проверка : curl http://localhost | Ожидаемый ответ: Hello from Effective Mobile! Made by Kirill Tolmachev
 
-Автор: Kirill Tolmachev
+Автор: Kirill Tolmachev |
 Тестовое задание для Effective Mobile
 
